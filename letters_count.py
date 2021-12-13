@@ -8,7 +8,7 @@ Task:
     counts the number of each letter of the sentence,
     collects the letters/chars as a key and the counted numbers as a value in a dictionary."""
 
-#answer
+#ANSWER
 sentence = input("write a sentence:")
 setted = set(sentence)
 dictionary = {}
