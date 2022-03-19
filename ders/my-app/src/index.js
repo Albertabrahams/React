@@ -4,9 +4,16 @@ import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
 
+const Element = () => {
+  return(
+    <>
+    <p>I am element</p>
+    </>
+  )
+}
 ReactDOM.render(
   <React.StrictMode>
-    <App />
+    <Element />
   </React.StrictMode>,
   document.getElementById('root')
 );
