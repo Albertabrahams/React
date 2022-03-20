@@ -1,8 +1,12 @@
+import Person from "./components/Person";
+
 function App() {
   return (
-    <div>
-      <h1>hello React</h1>
-    </div>
+    <Person 
+    name="Ahmet"
+    img="" 
+    tel="505"
+    />
   );
 }
 
