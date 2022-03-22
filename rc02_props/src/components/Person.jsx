@@ -1,13 +1,16 @@
-import React from 'react'
+import React from "react";
+import Message from "./Message";
 
-function Pers() {
+function Person({ name, img, tel }) {
+  //   const { name, img, tel } = props;
   return (
     <div>
-        <Message/>
+      <Message ad={name} />
+      <h2>{name}</h2>
+      <img src={img} alt="" />
+      <h3>{tel}</h3>
     </div>
-  )
+  );
 }
 
-export default 
-<Message/>
-
+export default Person;

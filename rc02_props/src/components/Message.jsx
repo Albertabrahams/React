@@ -1,9 +1,11 @@
-import React from 'react'
+import React from "react";
 
-function Message() {
+function Message(props) {
   return (
-    <div>Message</div>
-  )
+    <div>
+      <h1>Hello I am {props.ad}</h1>
+    </div>
+  );
 }
 
-export default Message
+export default Message;
