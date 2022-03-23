@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/React/Toursass/static/css/main.99ebe64a.css",
+    "main.js": "/React/Toursass/static/js/main.d9cc558c.js",
+    "static/js/787.314474ed.chunk.js": "/React/Toursass/static/js/787.314474ed.chunk.js",
+    "index.html": "/React/Toursass/index.html",
+    "main.99ebe64a.css.map": "/React/Toursass/static/css/main.99ebe64a.css.map",
+    "main.d9cc558c.js.map": "/React/Toursass/static/js/main.d9cc558c.js.map",
+    "787.314474ed.chunk.js.map": "/React/Toursass/static/js/787.314474ed.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.99ebe64a.css",
+    "static/js/main.d9cc558c.js"
+  ]
+}
